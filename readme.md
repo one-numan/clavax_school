@@ -1,5 +1,25 @@
 ## Clavax School Management System
 
+
+
+## Table of Contents
+
+
+- [About](#about)
+- [Modules Versioning](#modules)
+- [Installation](#installation)
+- [Run this Project](#run)
+- [Task](#task)
+
+
+
+
+
+________________________
+
+
+
+<a name='about'></a>
 __Assignment: School Management System using Django Backend and Django Rest API__
 
 Backend Part:
@@ -30,4 +50,39 @@ to activate/deactivate students through the API.
 image and other fields.
 • Ensure the endpoint is protected and requires authentication.
 
+
+
+
+---
+## Modules
+<a name="modules"></a>
+| Modules / Library Name | Version |
+| ---------------------- | ------- |
+| Python                 | 3.10.8  |
+| Django                 | 5.0.7 |
+| Django Rest Framework  | 3.15.2       |
+| HTML                   | 5       |
+| Bootsrap               | 5.3   |
+
+## Installation
+
+- Clone this Repo
+      - `git clone https://github.com/one-numan/clavax_school.git`
+- Install Python3
+- Installing Required Python Modules from File **Requirements.txt**
+  - Command `pip install -r requirements.txt`
+
+## Run
+<a name="run"> </a>
+- Installed IDE like VSCode or Pycharm
+- Go Dir **cd clavax_school**
+- check Manage.py file exist If Exist your are in correct path
+    - `python manage.py runserver` this Django Project run
+
+## Home Page 
+- ![image](https://github.com/user-attachments/assets/e142bce9-2484-496d-92ca-64bf333da31f)
+
+## Task   
+### 1. Student Model
+- ![image](https://github.com/user-attachments/assets/df3cc9fc-c719-4602-bd08-8ab5ee50bb1d)
 
